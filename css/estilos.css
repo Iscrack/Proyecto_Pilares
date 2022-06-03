@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cuadro{
+    height: 50vh;
+    width: 100%;
+    margin: auto;
+    background: url(../img/pilares.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: .8;
+}
+.cuadro p{
+    color: white;
+    font-size: 30px;
+    background-color: rgb(7, 7, 7);
+    text-align: center;
+}
+
+.blanco{
+    font-size: 30px;
+    background-color: azure;
+    text-align: center;
+    
+}
+
+.recreacion{
+    height: 50vh;
+    width: 100%;
+    margin: auto;
+    background: url(../img/pilares2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: .8;
+}
+
+.recreacion p{
+    font-size: 30px;
+    background-color: azure;
+    text-align: center;
+}
+
+.conexion{
+    height: 50vh;
+    width: 100%;
+    margin: auto;
+    background: url(../img/pilares3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: .8;
+}
+
+.conexion p{
+    font-size: 30px;
+    background-color: azure;
+    text-align: center;
+}
+
+.comunidad{
+    height: 50vh;
+    width: 100%;
+    margin: auto;
+    background: url(../img/pilares4.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: .8;
+}
+
+.comunidad p{
+    color: white;
+    font-size: 30px;
+    background-color: rgb(7, 7, 7);
+    text-align: center;
+}
+
+.negro{
+    font-size: 30px;
+    color: white;
+    background-color: rgb(7, 7, 7);
+    text-align: center;
+}    
+
